@@ -7,7 +7,7 @@ The Random Person Picker Wheel is a fun and interactive web application that all
 🚀 Live Demo
 
 Click the link below to use the app:
-👉 Random Picker Wheel
+👉 Random Picker Wheel https://random-picker-wheel-fedxbkhpmfbemhjzyvajkq.streamlit.app/
 
 🎯 Features
 
@@ -43,7 +43,6 @@ JavaScript & HTML5 Canvas for the wheel animation 🎨
 
 CSS Animations for visual effects ✨
 
-🔗 Repository
 
 You can check out the source code in this GitHub repository:
 📂 GitHub Repo
