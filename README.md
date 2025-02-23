@@ -48,6 +48,3 @@ CSS Animations for visual effects ✨
 You can check out the source code in this GitHub repository:
 📂 GitHub Repo
 
-🙌 Contribution
-
-Feel free to contribute by forking the repository, making changes, and submitting a pull request.
